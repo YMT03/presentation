@@ -1,3 +1,11 @@
 .nav-item{
     font-size: 1.23rem;
 }
+body{
+    background:url(../img/background.png) no-repeat !important;
+    background-size:cover;
+}
+
+.header  {
+  background: transparent !important;
+}
